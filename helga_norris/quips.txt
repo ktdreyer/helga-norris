@@ -69,3 +69,48 @@ Chuck Norris can tie his shoes with his feet.
 When Chuck Norris does a commit, he doesn't push to the remote repository, he makes all clones pull from him.
 Chuck Norris can make tests run in negative time.
 Chuck Norris eats red herring and snipe for breakfast.
+Chuck Norris doesn't need a debugger, he just stares down the bug until the code confesses.
+Chuck Norris rewrote the Google search engine from scratch.
+Chuck Norris can divide by zero.
+Chuck Norris protocol design method has no status, requests or responses, only commands.
+Chuck Norris doesn't pair program.
+Chuck Norris doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+Chuck Norris doesn't use web standards as the web will conform to him.
+Chuck Norris doesn't program with a keyboard. He stares the computer down until it does what he wants.
+Chuck Norris doesn't delete files, he blows them away.
+Chuck Norris can instantiate an abstract class.
+Chuck Norris doesn't need to know about class factory pattern. He can instantiate interfaces.
+The class object inherits from Chuck Norris.
+No statement can catch the ChuckNorrisException.
+Chuck Norris finished World of Warcraft.
+Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.
+Chuck Norris can unit test an entire application with a single assert.
+Chuck Norris doesn't need the cloud to scale his applications, he uses his laptop.
+Chuck Norris programs do not accept input.
+Chuck Norris can read all encrypted data, because nothing can hide from Chuck Norris.
+Chuck norris breaks RSA 128-bit encrypted codes in milliseconds.
+All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
+Chuck Norris can't test for equality because he has no equal.
+Chuck Norris can access private methods.
+There is no Esc key on Chuck Norris' keyboard, because no one escapes Chuck Norris.
+Chuck Norris never gets a syntax error. Instead, The language gets a DoesNotConformToChuck error.
+Chuck Norris doesn't have disk latency because the hard drive knows to hurry the hell up.
+The only pattern Chuck Norris knows is God Object.
+Chuck Norris programs occupy 150% of CPU, even when they are not executing.
+Chuck Norris can binary search unsorted data.
+Chuck Norris can compile syntax errors.
+Chuck Norris can solve the Towers of Hanoi in one move.
+Chuck Norris Icon The programs that Chuck Norris writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request they don't live to see the sun set.
+Chuck Norris hosting is 101% uptime guaranteed.
+Chuck Norris can write infinite recursion functions... and have them return.
+Project managers never ask Chuck Norris for estimations... ever.
+Chuck Norris solved the Travelling Salesman problem in O(1) time.
+Chuck Norris doesn't get compiler errors, the language changes itself to accommodate Chuck Norris.
+Chuck Norris went out of an infinite loop.
+Chuck Norris doesn't use a computer because a computer does everything slower than Chuck Norris.
+Chuck Norris compresses his files by doing a flying round house kick to the hard drive.
+Chuck Norris can spawn threads that complete before they are started.
+Chuck Norris doesn't need an OS.
+Chuck Norris knows the last digit of PI.
+Chuck Norris doesn't believe in floating point numbers because they can't be typed on his binary keyboard.
+Chuck Norris writes code that optimizes itself.
