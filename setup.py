@@ -20,8 +20,8 @@ setup(name="helga-norris",
       license='MIT',
       packages=find_packages(),
       entry_points = dict(
-          helga_handlers = [
-              'norris = helga_norris.norris:NorrisExtension',
+          helga_plugins = [
+              'norris = helga_norris.norris:norris',
           ],
       ),
 )
