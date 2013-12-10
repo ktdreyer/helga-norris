@@ -14,8 +14,11 @@ def norris(client, channel, nick, message, cmd, args):
     global _quips
 
     try:
-        username = args[0]
-    except IndexError:
+        username = (' '.join(args)).strip()
+    except:
+        username = ''
+
+    if not username:
         return '{0}, I need a nick to use'.format(nick)
-    else:
-        return random.choice(_quips).replace('Chuck Norris', username)
+
+    return random.choice(_quips).replace('Chuck Norris', username)
