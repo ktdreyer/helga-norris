@@ -81,7 +81,7 @@ Chuck Norris doesn't delete files, he blows them away.
 Chuck Norris can instantiate an abstract class.
 Chuck Norris doesn't need to know about class factory pattern. He can instantiate interfaces.
 The class object inherits from Chuck Norris.
-No statement can catch the ChuckNorrisException.
+No statement can catch the Chuck NorrisException.
 Chuck Norris finished World of Warcraft.
 Chuck Norris's keyboard doesn't have a Ctrl key because nothing controls Chuck Norris.
 Chuck Norris can unit test an entire application with a single assert.
