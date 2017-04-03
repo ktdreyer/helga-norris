@@ -88,7 +88,7 @@ Chuck Norris can unit test an entire application with a single assert.
 Chuck Norris doesn't need the cloud to scale his applications, he uses his laptop.
 Chuck Norris programs do not accept input.
 Chuck Norris can read all encrypted data, because nothing can hide from Chuck Norris.
-Chuck norris breaks RSA 128-bit encrypted codes in milliseconds.
+Chuck Norris breaks RSA 128-bit encrypted codes in milliseconds.
 All arrays Chuck Norris declares are of infinite size, because Chuck Norris knows no bounds.
 Chuck Norris can't test for equality because he has no equal.
 Chuck Norris can access private methods.
