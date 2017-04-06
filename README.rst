@@ -3,6 +3,11 @@ chucknorris
 
 A library of quips about Chuck Norris, including a plugin for helga to
 apply the quips to your chat colleagues.
+::
+
+    <ktdreyer>: !norris dmick
+    <helgabot>: dmick compresses his files by doing a flying round house kick
+                to the hard drive.
 
 Plugin Setup
 ------------
